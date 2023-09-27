@@ -2,7 +2,7 @@ import { loadProductItem } from "../store/reducers/product_one_item"
 
 export const getProductItem = id => {
     return dispatch => { 
-    fetch(`http://localhost:3333/products/${id}`)
+    fetch(`https://example-2w77.onrender.com/products/${id}`)
       .then(resp => resp.json())
       .then(json => 
         dispatch(loadProductItem(json[0])))
