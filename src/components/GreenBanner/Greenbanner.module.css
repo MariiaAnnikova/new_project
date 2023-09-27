@@ -1,0 +1,76 @@
+.green_line {
+    height: 476px;
+    width: 1540px;
+    background-image: linear-gradient(to right,  rgba(0, 99, 0, 1), rgba(51, 153, 51, 1));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+   }
+    .green_left img {
+       width: 422px;
+       height: 422px;
+     
+    }
+
+    
+    .green_title h1 {
+       font-family: Montserrat;
+       font-weight: 700;
+      
+      font-size: 90px;
+      margin-top: 44px;
+      color: white;
+       
+    }
+   
+    .green_title h2 {
+       font-family: Montserrat;
+       font-weight: 700;
+      line-height: 60px;
+      font-size: 50px;
+      color: white;
+    }
+   
+    .button_on_green{
+        display: flex;
+        flex-direction:column;
+        gap: 30px;
+        margin-top: 46px;
+   
+    }
+   
+    .form  {
+       width: 540px;
+       display: flex;
+       flex-direction: column;
+       padding: 13px 0;
+       gap: 15px;
+    }
+       .form  input { 
+           background-color: white;
+     border-color: white;
+     border: 1px solid white;
+     border-radius: 25px;
+    
+     width: 473px;
+       height: 76px;
+     color: #BDBDBD;
+     outline: none;
+     cursor: pointer;
+       }
+   
+   
+    .grn_btn {
+       width: 473px;
+       height: 76px;
+      cursor: pointer;
+       border: 1px solid white;
+       background: transparent;
+       border-radius: 25px;
+       color: white;
+       font-family: Monserrat;
+       font-weight: 700;
+       font-size: 28.74px;
+       line-height: 34.49px;
+    }

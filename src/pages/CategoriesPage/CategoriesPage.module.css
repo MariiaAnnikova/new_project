@@ -1,0 +1,10 @@
+.category_grid{
+     padding-left: 39px;
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     gap: 36px;
+}
+
+h1 {
+     padding-left: 33px;
+}

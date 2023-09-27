@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 57px;
+  
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+.icon_bag {
+    width: 26.55px;
+height: 29.4px;
+}
+

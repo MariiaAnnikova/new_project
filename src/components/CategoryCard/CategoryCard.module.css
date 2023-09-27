@@ -1,0 +1,40 @@
+
+  .category_card{
+    height: 350px;
+    width: 318px;
+    border: 1px solid black;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+   margin-top: 30px;
+  }
+  
+  
+  .category_card img {
+    height: 350px;
+    width: 300px;
+    object-fit: contain;
+   padding-left: 10px;
+  }
+
+  .category_card a {
+    text-decoration: none;
+    
+   
+   }
+
+  .category_card p {
+ font-family: Montserrat;
+ font-weight: 600;
+ font-size: 18px;
+ color: 
+ rgba(0, 0, 0, 1);
+ padding-left: 35%;
+ padding-bottom: 30px;
+ text-decoration: none;
+  }
+
+  div a {
+    text-decoration: none;
+  }
+

@@ -1,0 +1,7 @@
+.offer_card {
+    width: 1440px;
+    display: flex;
+    gap: 30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+} 

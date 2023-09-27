@@ -1,0 +1,63 @@
+.blu_pic {
+    height: 500px;
+    width: 1540px;
+    background-color: #A1E2EB;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blu_left h1 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 80px;
+    margin-left: 50px;
+    margin-top: 130px;
+    color: white;
+}
+.blu_left h2 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 63px;
+    margin-left: 50px;
+    width: 756px;
+    color: white;
+  
+}
+
+
+
+
+.white_button{
+    width: 241px;
+    height: 82px;
+    background: #f9f9f9;
+    border: 2px solid #fafafa;
+    border-radius: 13px;
+    margin-left: 50px ;
+    margin-top: 60px;
+    margin-bottom: 139px;
+    gap: 10px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 25px;
+   font-style: normal;
+   cursor: pointer;
+}
+.blu_button {
+    width: 241px;
+    height: 82px;
+   cursor: pointer;
+    border: 2px solid #fafafa;
+    border-radius: 13px;
+    margin-left: 50px ;
+    margin-top: 60px;
+    margin-bottom: 139px;
+    gap: 10px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 25px;
+   font-style: normal;
+    
+    background: rgba(161, 226, 235, 1);
+    color: #fafafa;
+}
